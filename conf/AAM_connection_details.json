@@ -1,0 +1,13 @@
+{
+  "appId": "",
+  "displayName": "",
+  "password": "",
+  "tenant": "",
+  "resource": "https://management.azure.com/",
+  "subscriptionId": "",
+  "tokenUrl": "https://login.microsoftonline.com",
+  "resourceGroup": "",
+  "serviceName": ""
+}
+
+
