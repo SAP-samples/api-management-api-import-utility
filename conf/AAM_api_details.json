@@ -1,0 +1,7 @@
+{
+  "APIsUrl": "%ssubscriptions/%s/resourceGroups/%s/providers/Microsoft.ApiManagement/service/%s/apis?api-version=2022-08-01",
+  "APIUrl": "%ssubscriptions/%s/resourceGroups/%s/providers/Microsoft.ApiManagement/service/%s/apis/%s?api-version=2022-08-01",
+  "APIDefinitionUrl": "%ssubscriptions/%s/resourceGroups/%s/providers/Microsoft.ApiManagement/service/%s/apis/%s/?export=true&format=swagger&api-version=2022-08-01"
+}
+
+
