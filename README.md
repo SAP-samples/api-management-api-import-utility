@@ -46,7 +46,8 @@ The `conf` sub-folder contains the configuration files required to run the utili
 
 Once you have updated the configuration files, navigate to the `target/app` folder, and enter:
 
-    java -cp api-import.jar;lib/* com.apimgmt.gateway.APIImportApplication
+    java -cp api-import.jar;lib/* com.apimgmt.gateway.APIImportApplication (Windows)
+    java -cp "api-import.jar:lib/*"  com.apimgmt.gateway.APIImportApplication (mac os/Linux)
 
 This will update the SAP API Management with the APIs reported by the Azure API Management.
 
